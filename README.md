@@ -12,7 +12,7 @@ If you have any questions on how to make weird hardware parts work together, fee
 
 ## Audio Reactive 🎵
 
-- [Dancing Stream](audio_reactive/) - An audio-reactive visual effect [OSX compatible] 💃🎶
+- [Dancing Stream](audio_reactive/) - An audio-reactive visual effect [OSX compatible]
 
 ## Arduino 🤖
 
