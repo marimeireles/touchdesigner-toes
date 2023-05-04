@@ -8,7 +8,7 @@ If you have any questions on how to make weird hardware parts work together, fee
 
 - [Stream of Particles](kinect/basic_particle.toe) - A cool particle effect [OSX and Kinect 360 compatible]
 - [Interactive Snow](kinect/interactive_snow.toe) - Create an interactive snowfall [OSX and Kinect 360 compatible]
-- [Smokey People](kinect/smoke_kinect.toe) - Simulate smoke particles [OSX and Kinect 360 compatible], great for NVIDIA or Radeon
+- [Smokey People](kinect/smoke_kinect.toe) - Simulate smoke particles [OSX and Kinect 360 compatible] (Similar to the NVIDIA tool, but compatible for Mac graphic boards)
 
 ## Audio Reactive 🎵
 
