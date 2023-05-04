@@ -1,6 +1,7 @@
 # Welcome to My TouchDesigner Repository!
 
-This repository holds all my CC-licensed TouchDesigner work. My goal is to create a user-friendly library, and in the future, I plan to include either videos or small animations of each toe to help you browse and find what you need. 📚🔍
+This repository holds all my CC-licensed TouchDesigner work. I spent a lot of time making things that shouldn't work, work!
+My goal is to create a user-friendly library, and in the future, I plan to include either videos or small animations of each toe to help you browse and find what you need. 📚🔍
 
 If you have any questions on how to make weird hardware parts work together, feel free to email me! I may be able to help you figure some things out :)
 
